@@ -1,6 +1,6 @@
 Hyperlane Token Bridge
 
-GYEWO8Yb0AY_2W_
+
 Prerequisites
 
     You need to have 0.0035 $ETH on Base Mainnet and 0.002 $ETH on Zora Mainnet in your wallet from where u want to deploy bridge contract, But it only charge $1 from ur balance so overall cost will be about $1-$2
